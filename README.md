@@ -28,7 +28,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%237270DA.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/vishal.mahto.10)
 
 
-## 💻 Tech Stacks:
+## 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript)
