@@ -20,7 +20,7 @@
 [![@sanchitbajaj02's Holopin board](https://holopin.me/sanchitbajaj02)](https://holopin.io/@sanchitbajaj02) -->
 
 
-## 🌐 Social:
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/vishalmahto0007)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/vishalmahto0007)
