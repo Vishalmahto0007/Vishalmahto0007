@@ -13,7 +13,7 @@
 - 💬 Feel free to contact me to discuss about projects and share innovative ideas <a href="https://discordapp.com/users/solitrx02#0202">here</a>.
 - 👯 I’m looking to collaborate on **Projects that enhances my knowledge and bring growth to the clients.**
 - 🤝 I’m looking for help with **learning Data Structure and Algorithms.**
-- 📫 How to reach me ** vishalmahto0007@gmail.com**
+- 📫 How to reach me **vishalmahto0007@gmail.com**
 
 <!-- ## 📥 Holopin board
 
