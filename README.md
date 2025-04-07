@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://sanchitbajaj02.github.io/portfolio/)](https://sanchitbajaj02.github.io/portfolio/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=sanchitbajaj02&color=blue&logo=flat)
 
-## 👨🏻‍💻 About me
+## 👨🏻‍💻About me
 
 - 🔭 I’m currently working on **brushing up my skills to copup with evergrowing IT industry.**
 - 🌱 I’m currently learning **WebRTC and Web Sockets**
