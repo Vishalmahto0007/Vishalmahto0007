@@ -15,11 +15,6 @@
 - 🤝 I’m looking for help with **learning Data Structure and Algorithms.**
 - 📫 How to reach me **vishalmahto0007@gmail.com**
 
-<!-- ## 📥 Holopin board
-
-[![@sanchitbajaj02's Holopin board](https://holopin.me/sanchitbajaj02)](https://holopin.io/@sanchitbajaj02) -->
-
-
 ## 🌐 Social:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/vishalmahto0007)
