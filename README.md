@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="75%">
 
-<h1> Hi Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">, I'm Vishal Mahto</h1>
+<h1> Hi Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">,I'm Vishal Mahto</h1>
 <br/> 
 
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://sanchitbajaj02.github.io/portfolio/)](https://sanchitbajaj02.github.io/portfolio/)
