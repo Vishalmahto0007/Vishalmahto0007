@@ -4,7 +4,7 @@
 <br/> 
 
 
-## 👨🏻‍💻About me
+## 👨🏻‍💻About me 
 
 - 🔭I’m working on **brushing up my skills to cope with the ever-growing IT industry.**
 - 🌱 I’m currently learning **WebRTC and Web Sockets**
