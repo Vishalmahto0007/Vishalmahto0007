@@ -7,7 +7,7 @@
 ## 👨🏻‍💻About me 
 
 - 🔭I’m working on **brushing up my skills to cope with the ever-growing IT industry.**
-- 🌱 I’m currently learning **WebRTC and Web Sockets**
+- 🌱 I’m currently learning **WebRTC and Web Sockets** 
 - 💬 Feel free to contact me to discuss projects and share innovative ideas <a href="https://discordapp.com/users/solitrx02#0202">here</a>.
 - 👯 I’m looking to collaborate on **Projects that enhance my knowledge and bring growth to the clients.**
 - 🤝 I’m looking for help with **learning Data Structure and Algorithms.**
